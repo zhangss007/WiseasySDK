@@ -1,0 +1,42 @@
+﻿=====================================================================================
+
+Version: SDK4BaseBinderV2.2.12.jar
+	
+Date: 2021-01-13
+
+New Functionalities:
+	1.Printer to add a single - row multi - column printing interface.
+	
+Bug Fixes:
+	1.null
+=====================================================================================
+
+Version: SDK4BaseBinderV2.2.11.jar
+	First version
+Date: 2020-11-12
+
+New Functionalities:
+	1.modify the version name.
+	
+Bug Fixes:
+	1.Update REGO printer adaptation scheme
+	2.
+	
+=====================================================================================
+
+=====================================================================================
+
+Version: SDK4BaseBinderV2.2.09.jar
+	First version
+Date: 2020-07-14
+
+New Functionalities:
+	1.
+	
+Bug Fixes:
+	1.
+	
+=====================================================================================
+	
+	
+	

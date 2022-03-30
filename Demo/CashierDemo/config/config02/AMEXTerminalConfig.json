@@ -1,0 +1,14 @@
+{
+  "kernelId": "04",
+  "terminalType": "22",
+  "terFloorLimit": "000000000000",
+  "terCountryCode": "0620",
+  "exTermCapab": "7000F0A001",
+  "terminalCapa": "E0F8C8",
+  "enhCLReaderCapa": "D8E84000",
+  "propKernelConfig": "093C3500",
+  "kernel4ReaderCapa": "C0",
+  "defaultDRLFloorLimit": "000000001200",
+  "defaultDRLCVMLimit": "000000001000",
+  "defaultDRLTransLimit": "000000001500"
+}

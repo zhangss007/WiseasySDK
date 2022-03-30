@@ -1,0 +1,14 @@
+[
+  {
+    "dynamicLimitSet": "0B",
+    "transLimit": "000000000300",
+    "cvmReqLimit": "000000000200",
+    "floorLimit": "000000000100"
+  },
+  {
+    "dynamicLimitSet": "06",
+    "transLimit": "000000000700",
+    "cvmReqLimit": "000000000200",
+    "floorLimit": "000000000400"
+  }
+]

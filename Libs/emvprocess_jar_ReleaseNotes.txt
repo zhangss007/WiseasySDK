@@ -1,0 +1,70 @@
+﻿=====================================================================================
+
+Version: emvprocess_2.2.05.210615.jar
+Date: 2021-06-18
+
+New Functionalities:
+	1. Wepoy: enable read amount again by 0B03 Callback after read record(this feature just for contact trans).
+	
+Bug Fixes:
+	1.
+
+=====================================================================================
+
+Version: emvprocess_2.2.03.210302.jar
+Date: 2021-03-02
+
+New Functionalities:
+	1. 
+	
+Bug Fixes:
+	1.The call of addAID_EMV in the addAID_SP method is modified to addAID,according to overseas technical support(ysh).
+=====================================================================================
+
+=====================================================================================
+
+Version: emvprocess_2.2.02.210208.jar
+Date: 2021-02-08
+
+New Functionalities:
+	1. add Processing sensitive data --- getSecurityDataList
+	
+Bug Fixes:
+	1.
+=====================================================================================
+
+Version: emvprocess_2.2.01.210121.jar
+Date: 2021-01-21
+
+New Functionalities:
+	1. add Split interfaces for contactless and contactless transactions
+	
+Bug Fixes:
+	1.
+=====================================================================================
+
+Version: emvprocess_J2.20.200916.jar
+Date: 2020-09-16
+
+New Functionalities:
+	1.add Rupay Module
+	
+Bug Fixes:
+	1.
+
+=====================================================================================
+
+Version: emvprocess_O2.20.120704.jar
+	First version
+Date: 2020-07-14
+
+New Functionalities:
+	1.
+	
+Bug Fixes:
+	1.
+	
+=====================================================================================
+	
+	
+	

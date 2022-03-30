@@ -1,0 +1,88 @@
+﻿=====================================================================================
+
+Version: SDK4EmvBinderV2.2.15.jar
+	
+Date: 2021-06-18
+
+New Functionalities:
+	1.Wepoy: enable read amount again by 0B03 Callback after read record(this feature just for contact trans).
+Bug Fixes:
+	1.
+
+=====================================================================================
+
+Version: SDK4EmvBinderV2.2.13.jar
+	
+Date: 2020-12-23
+
+New Functionalities:
+	1.Add new interface: enableForceAAC
+Bug Fixes:
+	1.
+
+=====================================================================================
+
+Version: SDK4EmvBinderV2.2.12.jar
+	
+Date: 2020-12-15
+
+New Functionalities:
+	1.Add new interface: clTranslimitProcess
+Bug Fixes:
+	1.
+
+=====================================================================================
+
+Version: SDK4EmvBinderV2.2.11.jar
+	
+Date: 2020-11-12
+
+New Functionalities:
+	1.Add new interface: NoCVMNoOnline 
+	2.enableVPTTRefund
+Bug Fixes:
+	1.
+
+=====================================================================================
+
+Version: SDK4EmvBinderV2.2.09.jar
+	
+Date: 2020-11-2
+
+New Functionalities:
+	1.Add new interface: setLogOnOff 
+	
+Bug Fixes:
+	1.
+
+=====================================================================================
+
+Version: SDK4EmvBinderV2.2.07.jar
+	
+Date: 2020-09-14
+
+New Functionalities:
+	1.Add Rupay interface;
+	2.Configurable dynamic AID parameter setting function;
+	3.Configurable PIN Pypass function;
+	4.New step-by-step AppSel interface;
+	
+Bug Fixes:
+	1.
+	
+=====================================================================================
+
+Version: SDK4EmvBinderV2.2.03.jar
+	First version
+Date: 2020-07-14
+
+New Functionalities:
+	1.
+	
+Bug Fixes:
+	1.
+	
+=====================================================================================
+	
+	
+	

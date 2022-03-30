@@ -1,0 +1,40 @@
+﻿=====================================================================================
+
+Version: SDK4KeyManagerBinderV2.2.06.jar
+	
+Date: 2021-2-07
+
+New Functionalities:
+	1. 
+	
+Bug Fixes:
+	1. 增加支持密文导入DUKPT的秘钥注入接口 UpdateKeyEx_new 名称修改为ImportSymmetryKey
+=====================================================================================
+
+Version: SDK4KeyManagerBinderV2.2.04.jar
+	
+Date: 2020-12-01
+
+New Functionalities:
+	1. 
+	
+Bug Fixes:
+	1.增加获取秘钥信息接口 getSecretKeyInfo
+	2. 增加接口功能：生成CSR、检查设备签名证书、下载秘钥、获取TR34原文、获取TR34签名结果、获取设备随机数
+	
+=====================================================================================
+
+Version: SDK4KeyManagerBinderV2.2.02.jar
+	First version
+Date: 2020-07-14
+
+New Functionalities:
+	1.
+	
+Bug Fixes:
+	1.
+	
+=====================================================================================
+	
+	
+	

@@ -1,0 +1,135 @@
+﻿Version: 2.2.04_d615J
+	
+Date: 2021-06-18
+
+New Functionalities:
+	1.
+	
+Bug Fixes:
+	1.  modify emvprocess_2.2.05.210615.
+	2.  modify SDK4EmvBinderV2.2.15.jar
+
+=====================================================================================
+
+Version: 2.2.03_d302J
+	
+Date: 2021-02-08
+
+New Functionalities:
+	1.
+	
+Bug Fixes:
+	1.  modify emvprocess_2.2.03.210302.jar.
+
+=====================================================================================
+Version: 2.2.02_d208J
+	
+Date: 2021-02-08
+
+New Functionalities:
+	1.  add Processing sensitive data.
+	
+Bug Fixes:
+	
+
+=====================================================================================
+Version: 2.2.00_C916J
+	First version
+Date: 2021-02-07
+
+New Functionalities:
+	1.updata jar
+	
+Bug Fixes:
+	
+
+=====================================================================================
+Version: 2.2.00_C916J
+	First version
+Date: 2020-12-01
+
+New Functionalities:
+	1.updata config
+	
+Bug Fixes:
+	
+
+=====================================================================================
+=====================================================================================
+
+Version: 2.2.00_C916J
+	First version
+Date: 2020-11-18
+
+New Functionalities:
+	1.add JCB CAPK
+	
+Bug Fixes:
+	
+
+=====================================================================================
+
+=====================================================================================
+
+Version: 2.2.00_C916J
+	First version
+Date: 2020-11-04
+
+New Functionalities:
+	1.add rupay module
+	
+Bug Fixes:
+	1.Update the parameter file in Config01 and add the AMEX CL TAC parameter
+
+=====================================================================================
+
+Version: 2.2.00_C916J
+	First version
+Date: 2020-07-14
+
+New Functionalities:
+	1.add rupay module
+	
+Bug Fixes:
+	1.
+	
+
+=====================================================================================
+
+Version: 2.0.07_014
+	First version
+Date: 2020-07-14
+
+New Functionalities:
+	1.
+	
+Bug Fixes:
+	1.
+	
+=====================================================================================
+
+Version: 2.0.07_017
+	First version
+Date: 2020-07-20
+
+New Functionalities:
+	1.
+	
+Bug Fixes:
+	1.modify CashierDemo to fix init param fail.
+	
+=====================================================================================
+	
+Version: 2.0.07_014
+	First version
+Date: 2020-07-16
+
+New Functionalities:
+	1.
+	
+Bug Fixes:
+	1.更新config01中的参数文件，解决QPBOC 弹PIN 问题
+	
+=====================================================================================
+	
+	

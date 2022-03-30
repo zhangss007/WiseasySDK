@@ -1,0 +1,18 @@
+{
+  "kernelId": "06",
+  "terminalType": "22",
+  "terFloorLimit": "000000015000",
+  "terCountryCode": "0840",
+  "terCurrencyCode": "0840",
+  "terminalCapa": "E0E808",
+  "extendedSelection": "01",
+  "onlineRequestsCounter": "01",
+  "timeOutValue": "30",
+  "ttq": "B600C000",
+  "terminalVersionNum": "0001",
+  "floorLimit": "000000010000",
+  "CVMLimit": "000000020000",
+  "transLimit": "000000030000",
+  "statusCheckSupportFlag": "01",
+  "zeroAmountAllowedFlag": "01"
+}
